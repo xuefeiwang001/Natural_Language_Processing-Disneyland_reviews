@@ -77,7 +77,7 @@ This project applies **Natural Language Processing (NLP)** techniques to analyze
 ### Option 2: Run Locally
 
 - Clone the repo
-git clone https://github.com/your-username/disneyland-nlp-review.git <br>
+git clone [https://github.com/your-username/disneyland-nlp-review.git](https://github.com/xuefeiwang001/Natural_Language_Processing-Disneyland_reviews.git) <br>
 cd disneyland-nlp-review
 
 - (Optional) Create a virtual environment
