@@ -2,7 +2,7 @@
 
 This project applies **Natural Language Processing (NLP)** techniques to analyze over **42,000 TripAdvisor reviews** from three Disneyland parks: Hong Kong, Paris, and California. The goal is to uncover patterns in visitor sentiment and extract actionable insights to improve the customer experience.
 
-📘 View the full analysis: [`Natural_Language_Processing_Disneyland_reviews.ipynb`](./Natural_Language_Processing_Disneyland_reviews.ipynb)
+📘 :[View the full analysis in Google Colab](https://colab.research.google.com/drive/1Hli6gd91P4s0CcOgrsHHO0XcE3pEqiOU?usp=sharing)
 
 ---
 
@@ -77,18 +77,18 @@ This project applies **Natural Language Processing (NLP)** techniques to analyze
 ### Option 2: Run Locally
 
 - Clone the repo
-git clone https://github.com/your-username/disneyland-nlp-review.git
+git clone https://github.com/your-username/disneyland-nlp-review.git <br>
 cd disneyland-nlp-review
 
 - (Optional) Create a virtual environment
-python -m venv venv
+python -m venv venv <br>
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 
 - Install dependencies
 pip install -r requirements.txt
 
 - Run the notebook
-jupyter notebook
+jupyter notebook <br>
 Open Natural_Language_Processing_Disneyland_reviews.ipynb and execute the cells.
 
 ---
@@ -117,9 +117,9 @@ This project is shared under the MIT License
 ---
 
 ## 👩‍💻 Author
-Xuefei Wang
-MSc in Data Analytics and AI | Driven to transform raw data into strategic insights that lead to real impact.
-🔍 Skilled in uncovering patterns, generating actionable insights, and telling compelling stories from data across business contexts.
+Xuefei Wang <br>
+📘 MSc in Data Analytics and AI <br>
+🔍 Driven to transform raw data into strategic insights that lead to real impact. <br>
 📧 [xuefei.wang001@qq.com]
 
 
