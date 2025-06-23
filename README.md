@@ -2,7 +2,7 @@
 
 This project applies **Natural Language Processing (NLP)** techniques to analyze over **42,000 TripAdvisor reviews** from three Disneyland parks: Hong Kong, Paris, and California. The goal is to uncover patterns in visitor sentiment and extract actionable insights to improve the customer experience.
 
-📘 :[View the full analysis in Google Colab](https://colab.research.google.com/drive/1Hli6gd91P4s0CcOgrsHHO0XcE3pEqiOU?usp=sharing)
+📘 [View the full analysis in Google Colab](https://colab.research.google.com/drive/1Hli6gd91P4s0CcOgrsHHO0XcE3pEqiOU?usp=sharing)
 
 ---
 
