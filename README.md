@@ -68,9 +68,8 @@ This project applies **Natural Language Processing (NLP)** techniques to analyze
 ## 🚀 How to Run
 
 ### Option 1: Run on Google Colab (Recommended)
-1. Open the notebook:  
-   [`Natural_Language_Processing_Disneyland_reviews.ipynb`](./Natural_Language_Processing_Disneyland_reviews.ipynb)
-2. Upload to Google Colab
+1. Open the notebook: https://colab.research.google.com/drive/1Hli6gd91P4s0CcOgrsHHO0XcE3pEqiOU?usp=sharing
+2. Duplicate to your Google Colab
 3. Make sure the runtime is set to Python 3
 4. Run all cells step by step
 
